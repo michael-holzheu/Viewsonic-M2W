@@ -30,6 +30,10 @@ Verwendete Musik:
 
 - Success Of The Whole Team (WinnieTheMoog)
 
+Versionsverwaltung:
+
+- GitHub: https://github.com/michael-holzheu/Viewsonic-M2W
+
 Änderungsprotokoll:
 
 15.01.2023 Erste interne Version
