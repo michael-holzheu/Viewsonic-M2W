@@ -1,0 +1,35 @@
+Für mein neues Projekt teste ich heute kurz den Viewsonic LED-Beamer M2W.
+
+Mit 1.700 LED-Lumen ist das neueste Modell das hellste der drei M2-Kollegen:
+
+- M2:  1.200 LED-Lumen
+- M2e: 1.000 LED-Lumen 
+- M2W: 1.700 LED-Lumen
+
+Sprungmarken:
+
+00:01 Unboxing Beamer
+06:01 Anschalten
+07:20 Orientierung einrichten
+09:28 WLAN einrichten
+13:58 Bildschirm Spiegeln mit Air Play (Versuch)
+17:07 USB-C anschließen
+19:25 Test Film abspielen
+20:50 Bildformat einstellen
+21:20 Bild ruckelt, Frames gehen verloren
+
+Aufnahme Setup:
+
+Für das Video würde ein Samsung Galaxy S22 Ultra verwendet und nachträglich der Ton *nicht* bearbeitet.
+
+Verbesserungsvorschläge:
+
+- 08:44 Fortschrittsbalken bei horizontaler/vertikaler Lageeinstellung
+
+Verwendete Musik:
+
+- Success Of The Whole Team (WinnieTheMoog)
+
+Änderungsprotokoll:
+
+15.01.2023 Erste interne Version
