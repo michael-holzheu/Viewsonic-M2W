@@ -6,7 +6,7 @@ This is the newest model of the M2-Series and with 1700 LED-Lumen the brightest 
 - M2e: 1.000 LED-Lumen
 - M2W: 1.700 LED-Lumen
 
-# Project contents
+## Project contents
 
 - [Attribution](https://github.com/michael-holzheu/Viewsonic-M2W/tree/main/Attribution)
 
