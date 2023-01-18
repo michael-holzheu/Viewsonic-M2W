@@ -30,7 +30,7 @@ Music used:
 
 - Success Of The Whole Team (WinnieTheMoog).
 
-Version management:
+Version control:
 
 - GitHub: https://github.com/michael-holzheu/Viewsonic-M2W
 
