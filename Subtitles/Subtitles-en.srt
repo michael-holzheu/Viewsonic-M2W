@@ -342,1127 +342,1124 @@ so to speak.
 How does it work?
 
 78
-00:07:29,606 --> 00:07:32,423
+00:07:29,606 --> 00:07:33,804
 Ah, there we have different options:
-
-79
-00:07:32,423 --> 00:07:33,534
 Ceiling...
 
-80
+79
 00:07:33,804 --> 00:07:36,237
 Then we can do it somehow, oops...
 
-81
+80
 00:07:36,437 --> 00:07:41,353
 Now I do left right: It's kind of mirrored there.
 
-82
+81
 00:07:43,768 --> 00:07:47,767
 I wanted, actually thought, that this here...
 
-83
+82
 00:07:47,767 --> 00:07:49,767
 (Sound: Remote control buttons)
 
-84
+83
 00:07:49,767 --> 00:07:51,199
 What is he doing there?
 
-85
+84
 00:07:51,199 --> 00:07:52,620
 Now he always does...
 
-86
+85
 00:07:53,399 --> 00:07:55,965
 flip vertically, right?
 
-87
+86
 00:07:55,965 --> 00:07:58,156
 Or horizontally?
 
-88
+87
 00:08:00,197 --> 00:08:01,896
 What's happening?
 
-89
+88
 00:08:02,263 --> 00:08:04,162
 Oh now!
 
-90
+89
 00:08:04,362 --> 00:08:06,895
 Then he flips it because...
 
-91
+90
 00:08:06,895 --> 00:08:09,761
 It's totally confusing...
 
-92
+91
 00:08:09,761 --> 00:08:42,518
 (Sounds: Fast forward)
 
-93
+92
 00:08:42,518 --> 00:08:48,000
 Why does it flip the picture now
 when I press on it?
 
-94
+93
 00:08:48,117 --> 00:08:49,050
 But here “ViewSonic”...
 
-95
+94
 00:08:49,316 --> 00:08:52,549
 Now like this! Now ViewSonic, the...
 
-96
+95
 00:08:52,549 --> 00:08:56,162
 the writing is correct and now I should,
 if I press “OK”, 
 
-97
+96
 00:08:56,681 --> 00:08:59,447
 it should be the right mode, right?
 
-98
+97
 00:08:59,647 --> 00:09:01,613
 Let's just press "OK"...
 
-99
+98
 00:09:02,346 --> 00:09:04,879
 Now it is ok! I probably just made that
 mistake earlier.
 
-100
+99
 00:09:05,412 --> 00:09:07,911
 So, we want German!
 
-101
+100
 00:09:13,876 --> 00:09:16,109
 What's happening now?
 Skip...
 
-102
+101
 00:09:16,975 --> 00:09:20,753
 And there you can see... The writing,
 for example, isn't pretty here, well...
 
-103
+102
 00:09:21,241 --> 00:09:22,640
 Let's connect with the "Muckel"..
 
-104
+103
 00:09:22,640 --> 00:09:24,806
 We don't need that for now! Then
 we do "skip".
 
-105
+104
 00:09:24,806 --> 00:09:28,305
 We just want to connect the laptop
 for a moment.
 
-106
+105
 00:09:28,305 --> 00:09:30,738
 No, okay, so we'll connect to the "Muckel"
 in a moment.
 
-107
+106
 00:09:30,738 --> 00:09:35,603
 So we enter Password...
 Password.
 
-108
+107
 00:09:42,635 --> 00:09:46,667
 We have to stop here for a moment!
 
-109
+108
 00:09:46,667 --> 00:09:51,839
 So the stopping was probably unnecessary because
 here you would have...
 
-110
+109
 00:09:52,998 --> 00:09:54,831
 What happened now?
 OK.
 
-111
+110
 00:09:54,831 --> 00:09:56,864
 I wanted, I thought I could use this
 
-112
+111
 00:09:56,864 --> 00:10:02,129
 as a laser pointer like this, but obviously
 it's not possible.
 
-113
+112
 00:10:02,162 --> 00:10:04,328
 Too bad, too bad, too bad. That would be it if
 you could have used it for...
 
-114
+113
 00:10:04,995 --> 00:10:07,194
 If you could have used it as a
 laser pointer.
 
-115
+114
 00:10:07,194 --> 00:10:08,561
 But it seems that...
 
-116
+115
 00:10:08,561 --> 00:10:13,859
 So I thought I'd push this
 button here, and... 
 
-117
+116
 00:10:13,992 --> 00:10:15,125
 This one!
 
-118
+117
 00:10:15,920 --> 00:10:17,325
 But it did not work.
 
-119
+118
 00:10:17,325 --> 00:10:20,424
 Because you could now here...
 Display the password “off”.
 
-120
+119
 00:10:20,424 --> 00:10:23,023
 Oh no, that would have
 been useless!
 
-121
+120
 00:10:23,323 --> 00:10:25,856
 Understood! So go on!
 
-122
+121
 00:10:26,622 --> 00:10:29,388
 So, we want to “connect”!
 
-123
+122
 00:10:31,321 --> 00:10:36,953
 And now we get it "connected"...
 "verified", "password error", oh!
 
-124
+123
 00:10:37,452 --> 00:10:38,452
 I get the crisis!
 
-125
+124
 00:10:38,452 --> 00:10:40,818
 So again!
 
-126
+125
 00:10:40,818 --> 00:10:42,918
 Um, password again, sorry!
 
-127
+126
 00:10:43,451 --> 00:10:46,483
 So, now I've verified, the password
 *must* be correct!
 
-128
+127
 00:10:46,483 --> 00:10:49,715
 So let's try it again,
 "Connect"...
 
-129
+128
 00:10:51,315 --> 00:10:55,847
 If it doesn't work now,
 it's not me!
 
-130
+129
 00:10:55,847 --> 00:10:58,713
 Yes, I entered it wrong earlier,
 all right!
 
-131
+130
 00:11:00,046 --> 00:11:03,112
 And now onto “next”,
 right?
 
-132
+131
 00:11:03,112 --> 00:11:09,677
 So, now we have here...
 The remote control:
 
-133
+132
 00:11:09,677 --> 00:11:15,408
 “USB-C”, “HDMI”, “USB”, “Local Storage”,
 “Micro SD”.
 
-134
+133
 00:11:15,408 --> 00:11:18,208
 “Apps” we have, “Bluetooth”...
 
-135
+134
 00:11:18,208 --> 00:11:21,373
 What do we do next?
 
-136
+135
 00:11:21,373 --> 00:11:23,173
 So just connect a laptop, right?
 
-137
+136
 00:11:23,173 --> 00:11:25,672
 This is what you actually need
 most often.
 
-138
+137
 00:11:26,305 --> 00:11:29,104
 This is... Where is now?
 If I somehow
 
-139
+138
 00:11:29,971 --> 00:11:33,103
 move the remote control here now,nothing happens.
 
-140
+139
 00:11:33,103 --> 00:11:35,062
 Why?
 
-141
+140
 00:11:36,202 --> 00:11:37,235
 Why can't I do anything now...
 
-142
+141
 00:11:37,235 --> 00:11:39,468
 I probably have to press "OK" right?
 
-143
+142
 00:11:39,468 --> 00:11:40,168
 Oh!
 
-144
+143
 00:11:40,968 --> 00:11:41,634
 No?
 
-145
+144
 00:11:42,111 --> 00:11:45,246
 What happened now?
 
-146
+145
 00:11:45,566 --> 00:11:48,099
 Yes, yes, but “OK” it was!
 So...
 
-147
+146
 00:11:48,099 --> 00:11:50,832
 That was just the remote control
 quickly faded in.
 
-148
+147
 00:11:50,832 --> 00:11:52,664
 And if you press “OK”, you
 get further.
 
-149
+148
 00:11:52,664 --> 00:11:54,064
 Alright...
 
-150
+149
 00:11:54,264 --> 00:11:55,197
 What do we have?
 
-151
+150
 00:11:55,197 --> 00:11:58,063
 So this fan is pretty
 extremely loud!
 
-152
+151
 00:11:59,196 --> 00:12:00,462
 So really terribly loud.
 
-153
+152
 00:12:00,462 --> 00:12:02,728
 It's as loud as with my old...
 
-154
+153
 00:12:02,728 --> 00:12:04,361
 With my old projector.
 
-155
+154
 00:12:04,361 --> 00:12:08,393
 Maybe you can do that somehow...
 
-156
+155
 00:12:09,593 --> 00:12:14,525
 Turn down: “Projector”, “German”,
 “Keystone”, “Zoo...”
 
-157
+156
 00:12:14,525 --> 00:12:15,858
 Oh, there is a zoom after all!
 
-158
+157
 00:12:15,858 --> 00:12:17,300
 I would not have thought that!
 
-159
+158
 00:12:17,957 --> 00:12:20,423
 Ok, there is a zoom.
 
-160
+159
 00:12:20,423 --> 00:12:22,523
 I thought this has no zoom.
 
-161
+160
 00:12:22,523 --> 00:12:24,355
 Already good!
 
-162
+161
 00:12:24,355 --> 00:12:28,454
 Okay, only 0.8, but it looks
 better from here.
 
-163
+162
 00:12:29,787 --> 00:12:31,020
 OK.
 
-164
+163
 00:12:31,020 --> 00:12:33,553
 Oh and then there was this...
 
-165
+164
 00:12:34,519 --> 00:12:37,585
 Auto Keystone Correction
 (Auto V-Keystone Correction)...
 
-166
+165
 00:12:37,985 --> 00:12:41,517
 It was supposed to...
 
-167
+166
 00:12:41,684 --> 00:12:43,683
 “Table in front”...
 
-168
+167
 00:12:44,017 --> 00:12:47,216
 “Adjust 4 corners”...
 
-169
+168
 00:12:48,049 --> 00:12:51,248
 Okay, that's maybe now to advanced.
 
-170
+169
 00:12:53,214 --> 00:12:54,014
 “Basic settings”.
 
-171
+170
 00:12:54,014 --> 00:12:56,013
 What else is there to do?“
 Advanced Settings”...
 
-172
+171
 00:12:56,013 --> 00:12:57,746
 Can we maybe just turn this
 down a bit?
 
-173
+172
 00:12:58,646 --> 00:13:01,812
 “Energy”, “Sleep Timer”, no...
 
-174
+173
 00:13:02,178 --> 00:13:09,309
 “Volume”, “Mute”, “Full Screen”, “Light Source Level”...
 
-175
+174
 00:13:09,909 --> 00:13:13,008
 What can I set there? “Energy saving mode”...
 
-176
+175
 00:13:14,041 --> 00:13:16,007
 “Energy saving mode” maybe it will be a
 bit quieter then?
 
-177
+176
 00:13:16,007 --> 00:13:18,473
 Oh yes, it's getting quieter.
 
-178
+177
 00:13:19,107 --> 00:13:20,273
 Still too loud!
 
-179
+178
 00:13:20,573 --> 00:13:24,938
 (Sound: Fan energy-saving mode)
 
-180
+179
 00:13:25,372 --> 00:13:27,638
 So I imagined it to be
 much quieter.
 
-181
+180
 00:13:28,904 --> 00:13:29,970
 And when I then go to
 "full screen"...
 
-182
+181
 00:13:29,970 --> 00:13:34,436
 Then it gets a lot louder.
 
-183
+182
 00:13:36,035 --> 00:13:39,767
 OK.
 And don't cancel now, but “Projector”?
 
-184
+183
 00:13:39,767 --> 00:13:41,434
 No, we don't want to!
 
-185
+184
 00:13:42,967 --> 00:13:44,933
 We just want to click "OK"...
 
-186
+185
 00:13:44,933 --> 00:13:47,432
 Actually, you just have to get out of the menu.
 
-187
+186
 00:13:47,432 --> 00:13:51,931
 Probably because it will be configured immediately.
 
-188
+187
 00:13:52,264 --> 00:13:54,430
 OK. Out again!
 
-189
+188
 00:13:55,463 --> 00:13:56,696
 So good.
 
-190
+189
 00:13:56,696 --> 00:13:58,362
 “Hub” can be added.
 
-191
+190
 00:13:58,362 --> 00:14:00,795
 Screen mirroring is also available, interesting!
 
-192
+191
 00:14:01,395 --> 00:14:02,794
 Can you now here...
 
-193
+192
 00:14:02,794 --> 00:14:03,694
 “Make sure”...
 
-194
+193
 00:14:03,694 --> 00:14:07,026
 That works with Apple and with...
 
-195
+194
 00:14:07,326 --> 00:14:11,825
 Ahh, here it's obvious from Apple...
 
-196
+195
 00:14:11,825 --> 00:14:15,791
 What's that called at Apple?
 
-197
+196
 00:14:15,791 --> 00:14:19,123
 The “Screen Mirroring”
 
-198
+197
 00:14:20,456 --> 00:14:22,255
 is called by Apple “AirPlay”.
 
-199
+198
 00:14:22,255 --> 00:14:23,888
 Right "AirPlay", I think so!
 
-200
+199
 00:14:23,888 --> 00:14:27,387
 Now let's put the thing somewhere on the box.
 
-201
+200
 00:14:32,053 --> 00:14:34,452
 Let's try AirPlay.
 
-202
+201
 00:14:35,252 --> 00:14:38,418
 Ha, way too loud, really!
 
-203
+202
 00:14:38,418 --> 00:14:39,017
 So...
 
-204
+203
 00:14:40,750 --> 00:14:46,948
 On the... Put on the box here.
 
-205
+204
 00:14:47,915 --> 00:14:57,545
 (Sounds: Projector alone - “Full Screen” mode)
 
-206
+205
 00:14:57,879 --> 00:15:03,577
 So, let's try this now...
 “Screen Sharing”.
 
-207
+206
 00:15:04,377 --> 00:15:05,710
 Where's my Apple (device)?
 
-208
+207
 00:15:08,809 --> 00:15:11,408
 So let's try it with the iPad first.
 
-209
+208
 00:15:13,841 --> 00:15:16,507
 Here is the iPad.
 
-210
+209
 00:15:19,139 --> 00:15:23,705
 How do we do it like this?
 Yes...
 
-211
+210
 00:15:28,303 --> 00:15:30,769
 We're doing here...
 
-212
+211
 00:15:31,003 --> 00:15:33,635
 Ah wait, the “Control Center” probably.
 
-213
+212
 00:15:34,768 --> 00:15:37,801
 And what is he saying here? We should
 (enter the) “Control Center”...
 
-214
+213
 00:15:37,867 --> 00:15:41,966
 And then there's “Screen Sharing” somewhere,
 where was that?
 
-215
+214
 00:15:43,666 --> 00:15:47,198
 Focus...
 
-216
+215
 00:15:48,298 --> 00:15:50,797
 It should be somewhere on the left.
 
-217
+216
 00:15:51,597 --> 00:15:55,062
 Ah, probably up here: “Playback”,
 “iPad”, “ViewSonic”.
 
-218
+217
 00:15:55,062 --> 00:16:00,128
 He already shows it, which is of course cool.
 Can you see it here?
 
-219
+218
 00:16:00,128 --> 00:16:02,594
 ViewSonic displayed...
 
-220
+219
 00:16:02,994 --> 00:16:06,426
 When I click on that, I now have the
 
-221
+220
 00:16:06,426 --> 00:16:10,958
 “ViewSonic”, “ViewSonic” over WiFi...
 Okay.
 
-222
+221
 00:16:11,091 --> 00:16:13,890
 And why can't I see anything now?
 
-223
+222
 00:16:15,790 --> 00:16:17,323
 Playback...
 
-224
+223
 00:16:20,322 --> 00:16:22,288
 Nothing works, why?
 
-225
+224
 00:16:22,288 --> 00:16:24,587
 Well, I'll probably have to...
 Ah yes, now something is coming!
 
-226
+225
 00:16:24,587 --> 00:16:26,587
 Takes time! No?
 
-227
+226
 00:16:30,153 --> 00:16:32,918
 Why is it not working?
 
-228
+227
 00:16:33,585 --> 00:16:39,350
 He's playing "Fettes Brot" (German song) right now,
 for whatever reason.
 
-229
+228
 00:16:39,350 --> 00:16:43,946
 Um, okay, again on that...
 
-230
+229
 00:16:47,448 --> 00:16:49,980
 Three: "Connect", yes...
 
-231
+230
 00:16:49,980 --> 00:16:50,980
 "ViewSonic" selected...
 
-232
+231
 00:16:50,980 --> 00:16:54,246
 Maybe we have to press "OK" here too?
 
-233
+232
 00:16:54,379 --> 00:16:56,945
 No, screen...
 
-234
+233
 00:16:56,945 --> 00:17:00,000
 Like that! Now why doesn't it work?
 
-235
+234
 00:17:00,175 --> 00:17:06,709
 (Sounds: Fast-forward)
 
-236
+235
 00:17:08,975 --> 00:17:14,773
 We'll just try USB-C now.
 For beginners...
 
-237
+236
 00:17:17,806 --> 00:17:21,805
 (Sounds: Fast-forward)
 
-238
+237
 00:17:22,871 --> 00:17:25,670
 So, let's put USB-C in here.
 
-239
+238
 00:17:28,503 --> 00:17:29,436
 Recognized!
 
-240
+239
 00:17:29,436 --> 00:17:31,102
 Do you want to change it?
 
-241
+240
 00:17:31,102 --> 00:17:33,668
 Yes we do!
 
-242
+241
 00:17:33,668 --> 00:17:34,868
 Good.
 
-243
+242
 00:17:38,433 --> 00:17:41,299
 No signal input...
 
-244
+243
 00:17:42,099 --> 00:17:46,031
 Hey, jei, jei... Why is that now?
 
-245
+244
 00:17:46,031 --> 00:17:50,930
 We have USB-C here now...
 What's the problem?
 
-246
+245
 00:17:50,930 --> 00:17:53,662
 Now we have to go to the screens
 here probably...
 
-247
+246
 00:17:54,295 --> 00:17:58,028
 System settings...
 
-248
+247
 00:18:04,459 --> 00:18:06,325
 Save in any case!
 
-249
+248
 00:18:07,258 --> 00:18:08,325
 Also remove!
 
-250
+249
 00:18:09,724 --> 00:18:14,523
 Make smaller, make smaller.
 
-251
+250
 00:18:14,823 --> 00:18:16,622
 So screens:
 
-252
+251
 00:18:17,622 --> 00:18:20,921
 No signal input, why?
 
-253
+252
 00:18:24,720 --> 00:18:26,153
 What screens do we have?
 
-254
+253
 00:18:26,153 --> 00:18:29,034
 Add display, ViewSonic.
 
-255
+254
 00:18:30,252 --> 00:18:30,785
 Yes...
 
-256
+255
 00:18:31,818 --> 00:18:34,951
 So that's possible here now.
 
-257
+256
 00:18:35,217 --> 00:18:38,116
 And then we want them next to each other, right?
 
-258
+257
 00:18:40,882 --> 00:18:41,982
 We want them...
 
-259
+258
 00:18:41,982 --> 00:18:46,681
 “Display”, “Settings screen”, “Main screen”
 
-260
+259
 00:18:46,681 --> 00:18:49,813
 is this...
 
-261
+260
 00:18:52,646 --> 00:18:55,511
 Main screen, but then...
 We don't want...
 
-262
+261
 00:18:55,511 --> 00:18:58,377
 We want to have them next to
 each other.
 
-263
+262
 00:18:58,377 --> 00:19:04,209
 Um, we don't want to mirror, we want to
 stop syncing.
 
-264
+263
 00:19:04,209 --> 00:19:06,975
 Ah yes, now we have it, ok!
 
-265
+264
 00:19:06,975 --> 00:19:07,675
 Finished.
 
-266
+265
 00:19:07,675 --> 00:19:10,374
 Now that we have the two side by side.
 
-267
+266
 00:19:10,374 --> 00:19:12,773
 And can slide this over here.
 
-268
+267
 00:19:12,773 --> 00:19:15,239
 OK. Play movie soon...
 
-269
+268
 00:19:16,405 --> 00:19:19,438
 Maybe.
 
-270
+269
 00:19:20,404 --> 00:19:23,603
 What movie are we playing, anything
 
-271
+270
 00:19:23,603 --> 00:19:26,203
 cool!
 
-272
+271
 00:19:27,002 --> 00:19:30,002
 We take “Terminator Tennis” here.
 
-273
+272
 00:19:30,002 --> 00:19:33,934
 It's always, always nice to look at!
 
-274
+273
 00:19:34,567 --> 00:19:37,952
 Hey Giovanni! Today you are due!
 
-275
+274
 00:19:39,432 --> 00:19:40,299
 See you soon!
 
-276
+275
 00:19:43,631 --> 00:19:45,964
 But that's actually...
 
-277
+276
 00:19:45,964 --> 00:19:49,030
 At least the sound is coming!
 
-278
+277
 00:19:49,030 --> 00:19:51,729
 And now we should then...
 
-279
+278
 00:19:52,429 --> 00:19:55,928
 get it over here at some point...
 
-280
+279
 00:20:00,793 --> 00:20:03,359
 How do we get it over here now?
 
-281
+280
 00:20:03,359 --> 00:20:16,655
 (Sounds: Film music)
 
-282
+281
 00:20:17,855 --> 00:20:21,287
 Now slide over here...
 Oh no...
 
-283
+282
 00:20:23,753 --> 00:20:26,086
 And then here...
 
-284
+283
 00:20:26,452 --> 00:20:28,452
 Large...
 
-285
+284
 00:20:32,051 --> 00:20:36,016
 How are we going to make this large, folks?
 
-286
+285
 00:20:40,948 --> 00:20:41,915
 "Play"...
 
-287
+286
 00:20:41,915 --> 00:20:46,547
 Well, that's obviously not 16:9 from the format...
 
-288
+287
 00:20:47,746 --> 00:20:49,912
 But...
 
-289
+288
 00:20:50,845 --> 00:20:55,877
 It's kind of funny here.
 Weird format!
 
-290
+289
 00:20:56,644 --> 00:20:58,677
 How can I make settings now?
 
-291
+290
 00:20:58,677 --> 00:21:02,375
 “Format Settings”...
 
-292
+291
 00:21:02,375 --> 00:21:07,441
 “Color Mode”...
 
-293
+292
 00:21:09,773 --> 00:21:14,605
 “Aspect Ratio” 16:9...
 Ah okay now.
 
-294
+293
 00:21:14,605 --> 00:21:16,905
 It doesn't fit either.
 
-295
+294
 00:21:16,905 --> 00:21:17,838
 Yes / Yes!
 
-296
+295
 00:21:18,338 --> 00:21:19,904
 Yes, come!
 
-297
+296
 00:21:20,437 --> 00:21:23,403
 So everything is not so great here.
 
-298
+297
 00:21:23,736 --> 00:21:27,268
 Here for example: Unbelievable, but true...
 
-299
+298
 00:21:27,268 --> 00:21:30,468
 So the mouse pointer is not synchronized here.
 
-300
+299
 00:21:30,468 --> 00:21:31,601
 He always gets stuck here.
 
-301
+300
 00:21:31,767 --> 00:21:32,734
 That must not be!
 
-302
+301
 00:21:32,734 --> 00:21:38,265
 USB-C, that actually has to be smooth and on the...
 
-303
+302
 00:21:38,932 --> 00:21:42,264
 monitor it moves smoothly...
 
-304
+303
 00:21:43,997 --> 00:21:46,796
 So the mouse pointer moves smoothly there.
 
-305
+304
 00:21:48,229 --> 00:21:50,262
 And here it is
 
-306
+305
 00:21:50,462 --> 00:21:53,628
 absolutely
 
-307
+306
 00:21:53,794 --> 00:21:56,360
 unacceptable for me, really unacceptable,
 
-308
+307
 00:21:57,093 --> 00:22:01,159
 so here it is jerky, it is jerky...
 
-309
+308
 00:22:01,159 --> 00:22:03,725
 Now the demonstration effect, of course!
 
-310
+309
 00:22:03,725 --> 00:22:05,652
 But yes, here he jerks.
 
-311
+310
 00:22:06,857 --> 00:22:09,361
 Always gets stuck somehow.
 
-312
+311
 00:22:09,720 --> 00:22:12,322
 Yes, got stuck here again.
 
-313
+312
 00:22:12,598 --> 00:22:13,955
 Just stuck.
 
-314
+313
 00:22:13,955 --> 00:22:16,554
 So that's actually not useful for me...
 
-315
+314
 00:22:17,088 --> 00:22:19,792
 Too loud...
 
-316
+315
 00:22:19,792 --> 00:22:24,286
 Relatively badly intuitive...
 
-317
+316
 00:22:24,286 --> 00:22:27,785
 Zoom okay...
 
-318
+317
 00:22:27,785 --> 00:22:29,584
 But that's...
 
-319
+318
 00:22:29,584 --> 00:22:32,150
 The absolute killer criterion:
 Because of course I need
 
-320
+319
 00:22:32,717 --> 00:22:33,716
 proper synchronization.
 
-321
+320
 00:22:33,716 --> 00:22:35,516
 I'm wondering why is this again?
 
-322
+321
 00:22:35,516 --> 00:22:39,148
 Because when I play a film, it has to work.
 
-323
+322
 00:22:39,148 --> 00:22:41,547
 It can't be that...
 
-324
+323
 00:22:43,447 --> 00:22:44,499
 It can't be that
 
-325
+324
 00:22:44,499 --> 00:22:46,734
 the film is jerky here too, right?
 
-326
+325
 00:22:50,478 --> 00:22:52,478
 Yet it also jerks...
 
-327
+326
 00:22:52,911 --> 00:22:53,811
 And now we are at the...
 
-328
+327
 00:22:53,811 --> 00:22:55,610
 Oh, that's because of the screen...
 
-329
+328
 00:22:55,943 --> 00:22:58,576
 It's stuck again, unbelievable!
 
-330
+329
 00:22:58,576 --> 00:22:59,742
 Just hang here.
 
-331
+330
 00:22:59,742 --> 00:23:02,808
 That can now be up to Apple again, of course.
 
-332
+331
 00:23:02,975 --> 00:23:03,541
 But wait...
 
-333
+332
 00:23:03,541 --> 00:23:06,040
 I have a Mac right now...
 
-334
+333
 00:23:07,107 --> 00:23:10,173
 And I would actually like to continue using it
 for the time being and
 
-335
+334
 00:23:10,672 --> 00:23:14,371
 that's why it's actually not acceptable so far,
 we can't use it!
 
-336
+335
 00:23:15,871 --> 00:23:17,337
 Unfortunately, you have to send it back...
 
-337
+336
 00:23:19,170 --> 00:23:19,970
 Well...
 
-338
+337
 00:23:20,170 --> 00:23:22,369
 That's how it is then!
 
-339
+338
 00:23:25,502 --> 00:23:27,434
 So now it's packed up again
 
-340
+339
 00:23:27,434 --> 00:23:29,867
 and unfortunately has to be returned.
 
-341
+340
 00:23:29,867 --> 00:23:31,367
 Unfortunately I do...
 
-342
+341
 00:23:31,367 --> 00:23:34,133
 I really don't like doing it, but...
 
-343
+342
 00:23:34,999 --> 00:23:37,132
 If the mouse doesn't work...
 
