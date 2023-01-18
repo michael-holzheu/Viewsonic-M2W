@@ -367,7 +367,7 @@ Dann können wir es irgendwie,
 oops...
 
 80
-00:07:36,437 --> 00:07:40,636
+00:07:36,437 --> 00:07:41,353
 Jetzt mache ich links rechts: Da wird das
 irgendwie gespiegelt.
 
@@ -385,7 +385,7 @@ jetzt hier...
 Was macht er denn da?
 
 84
-00:07:51,199 --> 00:07:52,399
+00:07:51,199 --> 00:07:52,620
 Jetzt tut er immer...
 
 85
@@ -393,7 +393,7 @@ Jetzt tut er immer...
 vertikal spiegeln, oder?
 
 86
-00:07:55,965 --> 00:08:00,197
+00:07:55,965 --> 00:07:58,156
 Oder horizontal?
 
 87
@@ -417,7 +417,7 @@ Ist ja total verwirrend...
 (Geräusche: Vorspulen) 
 
 92
-00:08:42,518 --> 00:08:44,984
+00:08:42,518 --> 00:08:48,000
 Warum er jetzt, wenn ich da drauf drücke,
 
 93
@@ -466,7 +466,7 @@ Was passiert jetzt?
 Überspringen...
 
 103
-00:09:16,975 --> 00:09:20,174
+00:09:16,975 --> 00:09:20,753
 Und da sieht man... Die Schrift zum Beispiel
 ist hier nicht schön, na ja...
 
@@ -501,7 +501,7 @@ Das muss wir mal kurz
 stoppen hier!
 
 110
-00:09:46,667 --> 00:09:52,998
+00:09:46,667 --> 00:09:51,839
 So, das Stoppen war wahrscheinlich unnötig,
 weil man hätte hier...
 
@@ -649,7 +649,7 @@ die Fernbedienung bewege,
 passiert nichts.
 
 141
-00:11:33,103 --> 00:11:35,503
+00:11:33,103 --> 00:11:35,062
 Warum?
 
 142
@@ -671,7 +671,7 @@ Oh!
 Nein?
 
 146
-00:11:42,001 --> 00:11:44,833
+00:11:42,111 --> 00:11:45,246
 Was ist jetzt passiert?
 
 147
@@ -731,7 +731,7 @@ Runterdrehen: “Projektor”, “Deutsch”,
 Oh es gibt doch einen Zoom!
 
 159
-00:12:15,858 --> 00:12:17,024
+00:12:15,858 --> 00:12:17,300
 Hätte ich gar nicht gedacht!
 
 160
@@ -743,7 +743,7 @@ Okay, es gibt einen Zoom.
 Ich dachte, das hat keinen Zoom.
 
 162
-00:12:22,689 --> 00:12:24,355
+00:12:22,523 --> 00:12:24,355
 Schon mal gut!
 
 163
@@ -1075,12 +1075,12 @@ drücken?
 Nein, Bildschirm...
 
 236
-00:16:56,945 --> 00:17:01,610
+00:16:56,945 --> 00:17:00,000
 So! Jetzt warum klappt
 es nicht?
 
 237
-00:17:01,610 --> 00:17:06,709
+00:17:00,175 --> 00:17:06,709
 (Geräusche: Vorspulen)
 
 238
@@ -1161,7 +1161,7 @@ Kein Signaleingang, warum?
 Was haben wir denn für Bildschirme?
 
 256
-00:18:26,153 --> 00:18:30,019
+00:18:26,153 --> 00:18:29,034
 Display hinzufügen, ViewSonic.
 
 257
@@ -1353,7 +1353,7 @@ Ja, komme!
 Also alles nicht so toll hier.
 
 300
-00:21:23,736 --> 00:21:27,135
+00:21:23,736 --> 00:21:27,268
 Hier zum Beispiel: Unglaublich,
 aber wahr...
 
@@ -1405,19 +1405,19 @@ also hier ruckelt er, ruckelt er...
 Jetzt der Vorführeffekt natürlich!
 
 312
-00:22:03,725 --> 00:22:04,824
+00:22:03,725 --> 00:22:05,652
 Doch ja, hier ruckelt er.
 
 313
-00:22:06,857 --> 00:22:10,023
+00:22:06,857 --> 00:22:09,361
 Bleibt immer irgendwie hängen.
 
 314
-00:22:10,023 --> 00:22:12,322
+00:22:09,720 --> 00:22:12,322
 Ja, ist hier wieder hängengeblieben.
 
 315
-00:22:12,322 --> 00:22:13,955
+00:22:12,598 --> 00:22:13,955
 Einfach hängengeblieben.
 
 316
@@ -1426,7 +1426,7 @@ Also das ist für mich nicht brauchbar
 eigentlich...
 
 317
-00:22:17,088 --> 00:22:19,654
+00:22:17,088 --> 00:22:19,792
 Zu laut...
 
 318
@@ -1465,11 +1465,11 @@ dann muss das doch auch funktionieren.
 Es kann jetzt nicht sein, dass...
 
 326
-00:22:43,447 --> 00:22:44,113
+00:22:43,447 --> 00:22:44,499
 Kann ja nicht sein,
 
 327
-00:22:44,113 --> 00:22:46,446
+00:22:44,499 --> 00:22:46,734
 dass jetzt hier der Film auch ruckelt,
 oder?
 
