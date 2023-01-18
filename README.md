@@ -9,5 +9,7 @@ This is the newest model of the M2-Series and with 1700 LED-Lumen the brightest 
 ## Project contents
 
 - [Attribution](https://github.com/michael-holzheu/Viewsonic-M2W/tree/main/Attribution)
+- [Description](https://github.com/michael-holzheu/Viewsonic-M2W/tree/main/Description)
+- [Subtitles](https://github.com/michael-holzheu/Viewsonic-M2W/tree/main/Subtitles)
 
 Any good bugfix, suggestion or comment is appreciated!
