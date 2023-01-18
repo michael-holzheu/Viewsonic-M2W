@@ -1,0 +1,99 @@
+Keywords
+--------
+BUG:      Bug or Problem
+CLAIM:    Claim/Statement
+HOWTO:    Tutorial, Explanation how to achieve something
+IDEA:     Proposal for improving things
+QUESTION: Question
+SAYING:   Saying
+SUMMARY:  Summary
+LINK:     Link/URL to external information
+WORD:     Special word
+TOC:      Table of Contents
+
+Devices
+-------
+- Projector: ViewSonic M2W
+- Tablet:    Apple iPad Pro (12,9 inch 4th generation)
+- Laptop:    Apple MacBook Pro (14 inch, M1 Max Chip, 10‑Core CPU and 24‑Core GPU)
+
+Log
+---
+00:01 TOC      Unboxing
+01:22 TOC      Connection options
+02:05 WORD     Risk Group 2
+               LINK: DIN EN 62471 VDE 0837-471:2009-03
+02:49 TOC      Power supply
+03:18 TOC      Remote control
+03:22 QUEST    What happens with opened batteries when the projector is sent back?
+04:28 CLAIM    There were others, who got this device before me!
+06:13 TOC      Fan noise startup
+06:13 CLAIM    Fan is very noisy!
+               11:55 Second finding, HOWTO
+06:15 TOC      Sound: Music Harman Kardon speaker
+06:21 TOC      Sound: Fan start
+06:43 TOC      Sound: Fan start -> bright mode (German "Vollbild")
+07:02 WORD     Zoom
+               LINK https://en.wikipedia.org/wiki/Zoom_lens
+07:20 WORD     Trapezfunktijon
+               LINK https://en.wikipedia.org/wiki/Trapezoid
+07:27 TOC      Horizontal/vertical mirroring 
+07:27 CLAIM    Configuration is not intuitive!
+09:17 BUG      Some characters of text are missing on display
+09:21 TOC      Connect to WLAN
+09:55 IDEA     Use remote control also as laser pointer?
+09:55 BUG      Label of  is misleading
+09:57 WORD     Laser pointer
+10:37 SAYING   I get the crisis
+11:21 TOC      Connect Macbook Pro with USB-C
+11:55 CLAIM    This projector is as noisy als my old one
+12:04 HOWTO    Reduce noise
+12:13 WORD     Trapezkorrektur
+12:14 TOC      Zoom (0,8-1.0)
+12:14 HOWTO    Zoom
+12:15 WORD     Zoom
+13:06 HOWTO    Reduce noise by reducing brightness
+13:06 QUESTION Noise is not reduced by "Energiesparmodus" it is just made darker?
+13:08 BUG      German translation "Lichtquellennieveau": Instead of "Vollbild" use "Maximal" or "Hell"
+13:20 TOC      Sound: Fan in energy saving mode (German "Energiesparmodus") 
+13:43 HOWTO    For saving settings in menus no "OK" is necessary
+13:58 TOC      Screen Mirroring with Airplay
+14:02 BUG      Explanation is not translated into German
+14:16 WORD     Screen Mirroring
+14:21 WORD     AirPlay
+               LINK: https://en.wikipedia.org/wiki/AirPlay
+14:52 TOC      Sound: Beamer in bright mode (German "Vollbild")
+15:00 WORD     Screen Sharing
+15:57 HOWTO    Screen mirroring with Airplay
+15:32 WORD     Control Center (Apple iPad)  
+               LINK: https://en.wikipedia.org/wiki/Control_Center_(Apple)
+16:16 BUG      Airplay is not working with iPad Pro
+16:35 WORD     Fettes Brot
+               LINK: https://de.wikipedia.org/wiki/Fettes_Brot
+18:15 TOC      Connect Apple Macbook via USB-C
+18:15 HOWTO    Connect Apple Macbook via USB-C
+19:14 TOC      Play film
+20:32 TOC      Setup aspect ratio
+21:25 BUG      The MacBook display jerks over USB-C
+22:14 SUMMARY  The projector is not usable for me
+22:30 WORD     German: Todschlagkriterium
+               LINK: https://de.wikipedia.org/wiki/Ausschlusskriterium
+22:43 TOC      Also film jerks multiple times
+23:00 QUESTION Perhaps the combination with Apple Macbook is the problem?
+23:20 SAYING   So isch's dann na au wieder
+               EN: That's just the way it is
+23:25 TOC      We send the projector back
+
+
+Ideas
+-----
+09:55 IDEA     Only one remote control with laser pointer function for all devices
+         
+
+
+
+
+
+
+
+ 
