@@ -37,5 +37,3 @@ Version control:
 Change log:
 
 01/15/2023 First version
-
-Translated with www.DeepL.com/Translator (free version)
