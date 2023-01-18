@@ -35,7 +35,7 @@ Log
 06:43 TOC      Sound: Fan start -> bright mode (German "Vollbild")
 07:02 WORD     Zoom
                LINK https://en.wikipedia.org/wiki/Zoom_lens
-07:20 WORD     Trapezfunktijon
+07:20 WORD     Trapezfunktion
                LINK https://en.wikipedia.org/wiki/Trapezoid
 07:27 TOC      Horizontal/vertical mirroring 
 07:27 CLAIM    Configuration is not intuitive!
