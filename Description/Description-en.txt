@@ -1,0 +1,41 @@
+For my new project, I'm briefly testing the ViewSonic M2W LED projector today.
+
+With 1,700 LED lumens, the latest model is the brightest of the three M2 colleagues:
+
+- M2: 1200 LED lumens
+- M2e: 1000 LED lumens 
+- M2W: 1700 LED lumens
+
+Jump Marks:
+
+00:01 Unboxing Beamer
+06:01 Switch on
+07:20 Setting up orientation
+09:28 Setting up WLAN
+13:58 Mirroring the screen with Air Play (trial)
+17:07 Connecting USB-C
+19:25 Play movie test
+20:50 Setting up picture format
+21:20 Picture jerks, frames are lost
+
+Recording Setup:
+
+A Samsung Galaxy S22 Ultra would be used for the video and audio would *not* be edited afterwards.
+
+Suggestions for improvement:
+
+- 08:44 Progress bar on horizontal/vertical position setting.
+
+Music used:
+
+- Success Of The Whole Team (WinnieTheMoog).
+
+Version management:
+
+- GitHub: https://github.com/michael-holzheu/Viewsonic-M2W
+
+Change log:
+
+01/15/2023 First version
+
+Translated with www.DeepL.com/Translator (free version)
