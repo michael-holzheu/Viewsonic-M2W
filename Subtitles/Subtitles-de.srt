@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:01,499 --> 00:00:07,664
 Also hier haben wir “ViewSonic”
 Smart LED Projektor
@@ -38,12 +38,12 @@ Ja jetzt schauen wir mal, was
 das Gerät so kann.
 
 9
-00:00:50,818 --> 00:00:52,385
+00:00:50,818 --> 00:00:52,972
 Beziehungsweise bevor wir das rausfinden,
 sollten wir es
 
 10
-00:00:52,385 --> 00:00:56,417
+00:00:51,972 --> 00:00:56,645
 natürlich vielleicht einfach mal
 auspacken!
 
@@ -62,7 +62,7 @@ So wie auch in den Testberichten
 beschrieben...
 
 14
-00:01:22,509 --> 00:01:32,107
+00:01:22,509 --> 00:01:32,373
 Sehr viele Anschlussmöglichkeiten:
 USB-C, HDMI, USB-A
 
@@ -141,7 +141,7 @@ Dann haben wir noch eine Fernbedienung
 und Batterien.
 
 30
-00:03:27,108 --> 00:03:33,939
+00:03:26,722 --> 00:03:33,939
 Eins habe ich noch vergessen und zwar ein
 USB-C Kabel gibt es auch noch.
 
@@ -181,17 +181,17 @@ Wie geht das? Einfach zu machen!
 So...
 
 39
-00:04:27,957 --> 00:04:32,222
+00:04:27,957 --> 00:04:31,891
 Und dann wird das wahrscheinlich
 funktionieren!
 
 40
-00:04:32,322 --> 00:04:34,089
+00:04:31,891 --> 00:04:34,392
 Dann bauchen wir Strom, denn
 den hier den...
 
 41
-00:04:34,089 --> 00:04:38,687
+00:04:34,392 --> 00:04:38,687
 Den legen wir gleich wieder
 zurück.
 
@@ -201,7 +201,7 @@ Sieht mir auch so aus, so ein bisschen,
 als ob ich nicht der erste wäre,
 
 43
-00:04:53,816 --> 00:04:58,248
+00:04:53,816 --> 00:04:58,524
 der dieses Gerät ausgepackt hat.
 Aber so es ist halt...
 
@@ -210,7 +210,7 @@ Aber so es ist halt...
 (Geräusche: Rascheln, Hupen, Husten)
 
 45
-00:05:19,509 --> 00:05:21,942
+00:05:19,509 --> 00:05:23,763
 Kaltgerätestecker, oder wie sich das nennt.
 Dreipolig wieder.
 
@@ -239,7 +239,7 @@ Haben wir hier schon...
 (Geräusche: Kabeltrommel)
 
 51
-00:05:54,399 --> 00:06:00,664
+00:05:54,399 --> 00:06:01,216
 Kabel! Strom, Strom
 ist an.
 
@@ -269,7 +269,7 @@ Ah doch, läuft an!
 Und man hört schon den Lüfter!
 
 58
-00:06:15,193 --> 00:06:15,826
+00:06:15,193 --> 00:06:16,267
 Wow, und...
 
 59
@@ -285,7 +285,7 @@ Sound klingt vielversprechend!
 (Geräusch: Lüfter Start)
 
 62
-00:06:25,157 --> 00:06:31,789
+00:06:25,157 --> 00:06:32,368
 Und jetzt tun wir das mal
 irgenwie an das...
 
@@ -294,7 +294,7 @@ irgenwie an das...
 Ja ist schon sehr laut!
 
 64
-00:06:38,387 --> 00:06:41,386
+00:06:38,580 --> 00:06:41,386
 Oh je...
 
 65
@@ -307,15 +307,15 @@ nicht so laut ist!
 (Geräusch: Lüfter Start->Vollbild)
 
 67
-00:06:50,483 --> 00:06:52,216
+00:06:50,483 --> 00:06:52,961
 Und er hat schon...
 
 68
-00:06:54,182 --> 00:06:55,249
+00:06:54,127 --> 00:06:55,690
 das Bild an der Wand.
 
 69
-00:06:55,249 --> 00:07:02,080
+00:06:55,690 --> 00:07:02,080
 Das sieht man jetzt hier nicht,
 Moment!
 
@@ -329,7 +329,7 @@ Das heißt, das müssen wir
 dann irgendwie...
 
 72
-00:07:06,812 --> 00:07:10,444
+00:07:06,812 --> 00:07:10,747
 jetzt halt von der Entfernung her so machen,
 dass es dann passt.
 
@@ -586,7 +586,7 @@ sorry!
 128
 00:10:43,451 --> 00:10:46,483
 So, jetzt habe ich verifiziert, das Passwort
-muss stimmen!
+*muss* stimmen!
 
 129
 00:10:46,483 --> 00:10:51,315
@@ -798,7 +798,7 @@ ein bisschen leiser machen?
 
 174
 00:12:58,646 --> 00:13:01,812
-“Energie”, “Schlaftimer”,
+“Energie”, “Schlaftimer”, nein...
 
 175
 00:13:02,178 --> 00:13:09,309
@@ -872,7 +872,7 @@ eingestellt wird.
 
 190
 00:13:52,264 --> 00:13:54,430
-Okay. Noch mal raus!
+Okay. Nochmal raus!
 
 191
 00:13:55,463 --> 00:13:56,696
@@ -1115,7 +1115,7 @@ Gut.
 
 245
 00:17:38,433 --> 00:17:41,299
-Gut. Kein Signaleingang...
+Kein Signaleingang...
 
 246
 00:17:42,099 --> 00:17:46,031
@@ -1216,11 +1216,11 @@ Fertig.
 
 268
 00:19:07,675 --> 00:19:10,374
-Jetzt haben wir die zwei nebeneinander
+Jetzt haben wir die zwei nebeneinander.
 
 269
 00:19:10,374 --> 00:19:12,773
-und können jetzt das hier rüberschieben.
+Und können jetzt das hier rüberschieben.
 
 270
 00:19:12,773 --> 00:19:15,239
