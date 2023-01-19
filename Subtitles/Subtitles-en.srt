@@ -263,7 +263,7 @@ And you can already hear the fan!
 Wow, and...
 
 59
-00:06:16,267 --> 00:06:19,892
+00:06:16,681 --> 00:06:19,892
 (Sounds: music from Harman Kardon speakers)
 
 60
@@ -342,7 +342,7 @@ so to speak.
 How does it work?
 
 78
-00:07:29,606 --> 00:07:33,804
+00:07:29,882 --> 00:07:33,804
 Ah, there we have different options:
 Ceiling...
 
@@ -798,13 +798,13 @@ And when I then go to
 Then it gets a lot louder.
 
 182
-00:13:36,035 --> 00:13:39,767
-OK.
-And don't cancel now, but “Projector”?
+00:13:36,110 --> 00:13:39,353
+OK.  And don't cancel now,
+but...
 
 183
-00:13:39,767 --> 00:13:41,434
-No, we don't want to!
+00:13:39,353 --> 00:13:41,158
+Projector no, we don't want to!
 
 184
 00:13:42,967 --> 00:13:44,933
