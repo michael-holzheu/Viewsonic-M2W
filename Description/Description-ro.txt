@@ -1,0 +1,39 @@
+Pentru noul meu proiect, astăzi testez pe scurt proiectorul ViewSonic M2W LED beamer.
+
+Cu 1.700 de lumeni LED, cel mai recent model este cel mai luminos dintre cei trei colegi M2:
+
+- M2: 1200 lumeni LED
+- M2e: 1000 lumeni LED 
+- M2W: 1700 lumeni LED
+
+Săriți marcajele:
+
+00:01 Unboxing Beamer
+06:01 Porniți
+07:20 Configurarea orientării
+09:28 Configurarea WLAN
+13:58 Oglindirea ecranului cu Air Play (probă)
+17:07 Conectarea USB-C
+19:25 Testarea unui film
+20:50 Setarea formatului de imagine
+21:20 Imaginea se blochează, se pierd cadrele
+
+Configurarea înregistrării:
+
+Un Samsung Galaxy S22 Ultra ar fi folosit pentru video, iar sunetul *nu* ar fi editat ulterior.
+
+Sugestii de îmbunătățire:
+
+- 08:44 Bară de progres la setarea poziției orizontale/verticale.
+
+Muzica folosită:
+
+- Succesul întregii echipe (WinnieTheMoog).
+
+Gestionarea versiunilor:
+
+- GitHub: https://github.com/michael-holzheu/Viewsonic-M2W
+
+Jurnal de modificări:
+
+15.01.2023 Prima versiune
