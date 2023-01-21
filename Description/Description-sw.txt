@@ -1,0 +1,39 @@
+Kwa mradi wangu mpya ninajaribu kwa ufupi projekta ya ViewSonic LED M2W leo.
+
+Na lumens 1,700 za LED, mtindo wa hivi punde ndio angavu zaidi kati ya wenzao watatu wa M2:
+
+- M2: 1200 lumens za LED
+- M2e: lumens 1000 za LED
+- M2W: 1700 lumens za LED
+
+alama za kuruka:
+
+00:01 Unboxing projector
+06:01 Washa
+07:20 Sanidi mwelekeo
+09:28 Sanidi WiFi
+13:58 Kuakisi skrini kwa Air Play (jaribu)
+17:07 Unganisha USB-C
+19:25 Cheza filamu ya majaribio
+20:50 Weka umbizo la picha
+21:20 Picha ni ngumu, muafaka umepotea
+
+Mpangilio wa kurekodi:
+
+Samsung Galaxy S22 Ultra ilitumika kwa video hiyo na sauti *haikuhaririwa* baadaye.
+
+Mapendekezo ya kuboresha:
+
+- 08:44 upau wa maendeleo kwa urekebishaji wa mlalo/wima
+
+Muziki uliotumika:
+
+- Mafanikio ya Timu nzima (WinnieTheMoog)
+
+Usimamizi wa Toleo:
+
+- GitHub: https://github.com/michael-holzheu/Viewsonic-M2W
+
+Changelog:
+
+01/15/2023 Toleo la kwanza
