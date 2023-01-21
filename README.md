@@ -2,9 +2,9 @@
 
 This is the latest model of the M2-Series and with 1700 LED-Lumen the brightest of the three colleagues:
 
-- M2: 1.200 LED-Lumen
-- M2e: 1.000 LED-Lumen
-- M2W: 1.700 LED-Lumen
+- M2: 1,200 LED-Lumen
+- M2e: 1,000 LED-Lumen
+- M2W: 1,700 LED-Lumen
 
 ## Project contents
 
