@@ -1,0 +1,39 @@
+Pour mon nouveau projet, je teste aujourd'hui brièvement le vidéoprojecteur LED M2W de ViewSonic.
+
+Avec 1700 lumens LED, le dernier modèle est le plus lumineux de ses trois collègues M2 :
+
+- M2 : 1200 lumens LED
+- M2e : 1000 lumens LED 
+- M2W : 1700 lumens LED
+
+Marqueurs de saut :
+
+00:01 Unboxing du vidéoprojecteur
+06:01 Mise sous tension
+07:20 Configurer l'orientation
+09:28 Configuration du réseau sans fil
+13:58 Refléter l'écran avec Air Play (essai)
+17:07 Connexion USB-C
+19:25 Test de lecture d'un film
+20:50 Régler le format d'image
+21:20 L'image est saccadée, des images sont perdues
+
+Configuration de l'enregistrement :
+
+Pour la vidéo, un Samsung Galaxy S22 Ultra a été utilisé et le son n'a *pas* été traité ultérieurement.
+
+Suggestions d'amélioration :
+
+- 08:44 Barre de progression lors du réglage de la position horizontale/verticale
+
+Musique utilisée :
+
+- Success Of The Whole Team (WinnieTheMoog)
+
+Gestion des versions :
+
+- GitHub : https://github.com/michael-holzheu/Viewsonic-M2W
+
+Journal des modifications :
+
+15.01.2023 Première version
