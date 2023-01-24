@@ -34,6 +34,6 @@ Version control:
 
 - GitHub: https://github.com/michael-holzheu/Viewsonic-M2W
 
-Change log:
+Changelog:
 
 01/15/2023 First version
